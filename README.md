@@ -14,5 +14,5 @@ UCAS Course Selector
 + If not done 
     + try `$ pip install -r requirement.txt`  
 
-# Blog Article
+#  reference documentation Blog Article
 http://blog.csdn.net/okcd00/article/details/72827861
