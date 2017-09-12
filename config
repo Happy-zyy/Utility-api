@@ -1,0 +1,11 @@
+[info]
+username = xxxxx
+password = xxxxx
+runtime  = 1
+
+[action]
+debug = true
+enroll = true
+evaluate = true
+select_bat = false
+
