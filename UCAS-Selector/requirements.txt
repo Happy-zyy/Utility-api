@@ -1,0 +1,6 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+configparser==3.5.0
+lxml==3.7.3
+requests==2.13.0
+tqdm==4.11.2
